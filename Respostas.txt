@@ -4,11 +4,11 @@
 software ou seja é um conjunto de arquivos individuais que são ultilizados por todos que estão criando
 o programa sendo assim os programadores podem ver, rever, refazer alterações no codigo.
 
-Exemplo: A progrmadora Camila fez um pluguim em sua area desktop e fez um sync(sicronizou para o repositorio) para o repositorio, e 
+Exemplo: A programadora Camila fez um pluguim em sua área desktop e fez um sync(sicronizou para o repositório) para o repositório, e 
 depois veio a programadora Raquel e foi ver este pluguim e corrigiu alguns erros daí fez um commit e usou 
-sync(sicronizou para o repositorio).
+sync(sicronizou para o repositório).
 
 
 2 - O botão sync serve para sincronizar os arquivos ou seja quando clico neste botão é enviado para o 
-repositorio os arquivos do programador que fez o commit.
+repositório os arquivos do programador que fez o commit.
 
