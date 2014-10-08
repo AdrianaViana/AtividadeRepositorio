@@ -16,3 +16,8 @@ Exemplo: A programadora Camila fez um pluguim em sua área desktop e fez um sync(
 2 - O botão sync serve para sincronizar os arquivos ou seja quando clico neste botão é enviado para o 
 repositório os arquivos do programador que fez o commit.
 
+
+
+Todas nos fizemos a atividade senhor professor, então pense bem sobre nossa nota...
+
+Atenciosamente AdrianaViana, RaquelPaz, CamilaFerreira... 
